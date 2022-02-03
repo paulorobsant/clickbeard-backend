@@ -1,0 +1,3 @@
+employee_already_registered: 'Este colaborador já está cadastrado.'
+selected_employee_not_exist: 'O colaborador selecionado não existe.'
+employee_successfully_removed: 'O colaborador foi removido com sucesso.'

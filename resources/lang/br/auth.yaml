@@ -1,0 +1,3 @@
+invalid_credentials: 'As crendenciais entregues não são válidas.'
+email_already_taken: 'Este e-mail já foi utilizado.'
+user_registered_successfully: 'Usuário registrado com sucesso.'

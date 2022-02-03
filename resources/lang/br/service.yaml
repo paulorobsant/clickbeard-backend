@@ -1,0 +1,3 @@
+service_already_exists: 'Esse serviço já existe.'
+selected_service_not_exist: 'O serviço selecionado não existe.'
+service_successfully_removed: 'O serviço foi removido com sucesso.'
